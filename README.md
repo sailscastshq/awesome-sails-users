@@ -60,4 +60,4 @@ This repository and its contents are licensed under the MIT License. See the LIC
 
 ---
 
-Maintained with ❤️ by The Sailscasts Company & the Sails.js community
+Maintained with ❤️ by [Kelvin Omereshone](https://x.com/Dominus_Kelvin) & the Sails.js community
