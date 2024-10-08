@@ -15,8 +15,7 @@ This repository celebrates the vibrant Sails.js community by highlighting organi
 | Company/Product | Description | Case Study/Details |
 |---------|-------------|-------------------|
 | [Sailscasts](https://sailscasts.com) | Screencasts for the calm JavaScript developer | Practical, high-quality video tutorials for pragmatic full-stack JavaScript web developers. |
-| [Hagfish](https://hagfish.io) |
-Hagfish is the platform that helps professional creators send and manage invoices. | Hagfish is a full-stack app built with The Boring JavaScript Stack as a modern way for creators to manage their invoices |
+| [Hagfish](https://hagfish.io) | Hagfish is the platform that helps professional creators send and manage invoices. | Hagfish is a full-stack app built with The Boring JavaScript Stack as a modern way for creators to manage their invoices |
 
 ## How to Get Listed
 We welcome submissions from any organization using Sails.js in production. To get listed:
